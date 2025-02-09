@@ -1,0 +1,381 @@
+[
+  {
+    "id": "PL-001",
+    "name": "Coco Claw",
+    "description": "A playful kitten goalie who leaps to block every shot with boundless energy.",
+    "age": 2,
+    "isActive": true,
+    "birthDate": "2023-01-10",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/coco-claw.jpg",
+    "position": "Goalkeeper",
+    "specialSkills": ["Acrobatic Saves", "Quick Reflexes"],
+    "team": {
+      "id": "TEAM-001",
+      "name": "Furry United"
+    }
+  },
+  {
+    "id": "PL-002",
+    "name": "Rocco Roar",
+    "description": "A lion defender who commands the back line with powerful tackles and loud roars.",
+    "age": 5,
+    "isActive": false,
+    "birthDate": "2020-12-20",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/rocco-roar.jpg",
+    "position": "Defense",
+    "specialSkills": ["Slide Tackles", "Aerial Dominance"],
+    "team": {
+      "id": "TEAM-001",
+      "name": "Furry United"
+    }
+  },
+  {
+    "id": "PL-003",
+    "name": "Fluffy Paw",
+    "description": "A swift fox midfielder known for nimble footwork and surprising trick shots.",
+    "age": 3,
+    "isActive": true,
+    "birthDate": "2022-08-05",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/fluffy-paw.jpg",
+    "position": "Midfield",
+    "specialSkills": ["Nutmeg Mastery", "Speed Dribble"],
+    "team": {
+      "id": "TEAM-001",
+      "name": "Furry United"
+    }
+  },
+  {
+    "id": "PL-004",
+    "name": "Whisker Wolf",
+    "description": "A determined wolf midfielder who excels in long-range passing and fierce tackles.",
+    "age": 4,
+    "isActive": true,
+    "birthDate": "2021-07-15",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/whisker-wolf.jpg",
+    "position": "Midfield",
+    "specialSkills": ["Precision Passes", "High Stamina"],
+    "team": {
+      "id": "TEAM-001",
+      "name": "Furry United"
+    }
+  },
+  {
+    "id": "PL-005",
+    "name": "Purrfect Strike",
+    "description": "A confident cat forward with a knack for curling shots into the top corner.",
+    "age": 3,
+    "isActive": true,
+    "birthDate": "2022-05-20",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/purrfect-strike.jpg",
+    "position": "Forward",
+    "specialSkills": ["Curve Shots", "One-on-One Dribbles"],
+    "team": {
+      "id": "TEAM-001",
+      "name": "Furry United"
+    }
+  },
+
+  {
+    "id": "PL-006",
+    "name": "Bella Bark",
+    "description": "A friendly dog goalkeeper who barks encouragement to the entire defense.",
+    "age": 4,
+    "isActive": true,
+    "birthDate": "2021-03-15",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/bella-bark.jpg",
+    "position": "Goalkeeper",
+    "specialSkills": ["Commanding Voice", "Reflex Saves"],
+    "team": {
+      "id": "TEAM-002",
+      "name": "Paw City FC"
+    }
+  },
+  {
+    "id": "PL-007",
+    "name": "Rocky Rott",
+    "description": "A tough rottweiler defender who stands his ground against any opponent.",
+    "age": 5,
+    "isActive": true,
+    "birthDate": "2020-11-10",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/rocky-rott.jpg",
+    "position": "Defense",
+    "specialSkills": ["Physical Strength", "Fearless Blocks"],
+    "team": {
+      "id": "TEAM-002",
+      "name": "Paw City FC"
+    }
+  },
+  {
+    "id": "PL-008",
+    "name": "Spot Spaniel",
+    "description": "A creative spaniel midfielder who excels at through-balls and quick give-and-go passes.",
+    "age": 3,
+    "isActive": true,
+    "birthDate": "2022-10-05",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/spot-spaniel.jpg",
+    "position": "Midfield",
+    "specialSkills": ["Through-Ball Specialist", "One-Touch Passing"],
+    "team": {
+      "id": "TEAM-002",
+      "name": "Paw City FC"
+    }
+  },
+  {
+    "id": "PL-009",
+    "name": "Fido Flick",
+    "description": "A playful dalmatian midfielder known for flick passes and clever feints.",
+    "age": 2,
+    "isActive": false,
+    "birthDate": "2023-04-01",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/fido-flick.jpg",
+    "position": "Midfield",
+    "specialSkills": ["Flick-On Passes", "Step-Over Feints"],
+    "team": {
+      "id": "TEAM-002",
+      "name": "Paw City FC"
+    }
+  },
+  {
+    "id": "PL-010",
+    "name": "Dash Pup",
+    "description": "A speedy puppy forward dashing behind defenders to latch onto through passes.",
+    "age": 1,
+    "isActive": true,
+    "birthDate": "2023-06-05",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/dash-pup.jpg",
+    "position": "Forward",
+    "specialSkills": ["Lightning Sprint", "Counter-Attacks"],
+    "team": {
+      "id": "TEAM-002",
+      "name": "Paw City FC"
+    }
+  },
+
+  {
+    "id": "PL-011",
+    "name": "Polly Keeper",
+    "description": "A colorful parrot goalie who squawks alerts and organizes the defense.",
+    "age": 4,
+    "isActive": true,
+    "birthDate": "2021-02-01",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/polly-keeper.jpg",
+    "position": "Goalkeeper",
+    "specialSkills": ["Airborne Saves", "Loud Coordination"],
+    "team": {
+      "id": "TEAM-003",
+      "name": "Feather Strikers"
+    }
+  },
+  {
+    "id": "PL-012",
+    "name": "Hawk Eye",
+    "description": "A vigilant hawk defender with razor-sharp vision, intercepting passes mid-air.",
+    "age": 3,
+    "isActive": true,
+    "birthDate": "2022-08-10",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/hawk-eye.jpg",
+    "position": "Defense",
+    "specialSkills": ["Interceptions", "Aerial Challenges"],
+    "team": {
+      "id": "TEAM-003",
+      "name": "Feather Strikers"
+    }
+  },
+  {
+    "id": "PL-013",
+    "name": "Daisy Duckling",
+    "description": "A speedy duck midfielder who loves crossing from the flanks and quacking for passes.",
+    "age": 2,
+    "isActive": true,
+    "birthDate": "2023-01-20",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/daisy-duckling.jpg",
+    "position": "Midfield",
+    "specialSkills": ["Cross Specialist", "Speed Dribble"],
+    "team": {
+      "id": "TEAM-003",
+      "name": "Feather Strikers"
+    }
+  },
+  {
+    "id": "PL-014",
+    "name": "Swan Dive",
+    "description": "A graceful swan midfielder who glides past opponents with elegant dribbles.",
+    "age": 3,
+    "isActive": false,
+    "birthDate": "2022-09-25",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/swan-dive.jpg",
+    "position": "Midfield",
+    "specialSkills": ["Elegance on the Ball", "Long-Range Passes"],
+    "team": {
+      "id": "TEAM-003",
+      "name": "Feather Strikers"
+    }
+  },
+  {
+    "id": "PL-015",
+    "name": "Eagle Eye",
+    "description": "A powerful eagle forward with incredible vision and unstoppable headers.",
+    "age": 4,
+    "isActive": true,
+    "birthDate": "2021-06-15",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/eagle-eye.jpg",
+    "position": "Forward",
+    "specialSkills": ["Diving Header", "Pinpoint Finishing"],
+    "team": {
+      "id": "TEAM-003",
+      "name": "Feather Strikers"
+    }
+  },
+
+  {
+    "id": "PL-016",
+    "name": "Igor the Iguana",
+    "description": "A patient iguana goalkeeper who stays cool under pressure, ready for sudden saves.",
+    "age": 3,
+    "isActive": true,
+    "birthDate": "2022-05-10",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/igor-the-iguana.jpg",
+    "position": "Goalkeeper",
+    "specialSkills": ["Calm Handling", "Snapshot Reflex"],
+    "team": {
+      "id": "TEAM-004",
+      "name": "Scales & Tails SC"
+    }
+  },
+  {
+    "id": "PL-017",
+    "name": "Camo Chameleon",
+    "description": "A stealthy chameleon defender who confuses opponents by blending with the turf.",
+    "age": 2,
+    "isActive": true,
+    "birthDate": "2023-03-01",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/camo-chameleon.jpg",
+    "position": "Defense",
+    "specialSkills": ["Camouflage Tackle", "Quick Interceptions"],
+    "team": {
+      "id": "TEAM-004",
+      "name": "Scales & Tails SC"
+    }
+  },
+  {
+    "id": "PL-018",
+    "name": "Lizard Lightfoot",
+    "description": "A nimble lizard midfielder, changing direction in a blink to dribble past defenders.",
+    "age": 3,
+    "isActive": true,
+    "birthDate": "2022-11-05",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/lizard-lightfoot.jpg",
+    "position": "Midfield",
+    "specialSkills": ["360 Spin Dribble", "Deft Turns"],
+    "team": {
+      "id": "TEAM-004",
+      "name": "Scales & Tails SC"
+    }
+  },
+  {
+    "id": "PL-019",
+    "name": "Slinky Snake",
+    "description": "A crafty snake midfielder coiling through tight defenses with slithering runs.",
+    "age": 4,
+    "isActive": false,
+    "birthDate": "2021-10-22",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/slinky-snake.jpg",
+    "position": "Midfield",
+    "specialSkills": ["Slithering Dribble", "Deception Feints"],
+    "team": {
+      "id": "TEAM-004",
+      "name": "Scales & Tails SC"
+    }
+  },
+  {
+    "id": "PL-020",
+    "name": "Turtle Turbo",
+    "description": "A surprisingly fast turtle forward with a powerful shot, catching opponents off-guard.",
+    "age": 4,
+    "isActive": true,
+    "birthDate": "2021-07-07",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/turtle-turbo.jpg",
+    "position": "Forward",
+    "specialSkills": ["Power Shot", "Unexpected Pace"],
+    "team": {
+      "id": "TEAM-004",
+      "name": "Scales & Tails SC"
+    }
+  },
+
+  {
+    "id": "PL-021",
+    "name": "Bongo Baboon",
+    "description": "A fun-loving baboon goalkeeper who drums on the crossbar to psych out opponents.",
+    "age": 2,
+    "isActive": true,
+    "birthDate": "2023-04-30",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/bongo-baboon.jpg",
+    "position": "Goalkeeper",
+    "specialSkills": ["Distracting Beats", "Surprise Saves"],
+    "team": {
+      "id": "TEAM-005",
+      "name": "Jungle Juniors"
+    }
+  },
+  {
+    "id": "PL-022",
+    "name": "Leo Leopard",
+    "description": "A spotted leopard defender with lightning reflexes, pouncing on any loose ball.",
+    "age": 4,
+    "isActive": true,
+    "birthDate": "2021-08-20",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/leo-leopard.jpg",
+    "position": "Defense",
+    "specialSkills": ["Prowling Tackles", "Sudden Pounce"],
+    "team": {
+      "id": "TEAM-005",
+      "name": "Jungle Juniors"
+    }
+  },
+  {
+    "id": "PL-023",
+    "name": "Ginny Giraffe",
+    "description": "A tall giraffe midfielder who sees the entire field for brilliant passes.",
+    "age": 3,
+    "isActive": true,
+    "birthDate": "2022-09-03",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/ginny-giraffe.jpg",
+    "position": "Midfield",
+    "specialSkills": ["High-Vantage Passing", "Long Leg Reach"],
+    "team": {
+      "id": "TEAM-005",
+      "name": "Jungle Juniors"
+    }
+  },
+  {
+    "id": "PL-024",
+    "name": "Harry Hippo",
+    "description": "A sturdy hippo midfielder who shields the ball with unstoppable power.",
+    "age": 4,
+    "isActive": false,
+    "birthDate": "2021-05-15",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/harry-hippo.jpg",
+    "position": "Midfield",
+    "specialSkills": ["Body Shielding", "Powerful Dribble"],
+    "team": {
+      "id": "TEAM-005",
+      "name": "Jungle Juniors"
+    }
+  },
+  {
+    "id": "PL-025",
+    "name": "Zara Zebra",
+    "description": "A flashy zebra forward with striped feints that mesmerize defenders.",
+    "age": 3,
+    "isActive": true,
+    "birthDate": "2022-06-12",
+    "imageUrl": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/zara-zebra.jpg",
+    "position": "Forward",
+    "specialSkills": ["Striped Stepover", "Clinical Finishing"],
+    "team": {
+      "id": "TEAM-005",
+      "name": "Jungle Juniors"
+    }
+  }
+]
