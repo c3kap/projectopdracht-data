@@ -1,0 +1,182 @@
+[
+  {
+    "id": "AVT-101",
+    "name": "Kai'ro",
+    "description": "A determined Firebender with a humble background, seeking to protect his village from rogue elements of the Fire Nation.",
+    "age": 19,
+    "isActive": true,
+    "birthDate": "1905-03-10",
+    "imageUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/kairo.jpg",
+    "element": "Fire",
+    "abilities": ["Firebending", "Heat Control", "Agile Combat"],
+    "affiliation": {
+      "id": "NAT-002",
+      "name": "Vuur Natie",
+      "leader": "Vuurheer Kazan",
+      "capital": "Vlamstad",
+      "motto": "Met kracht komt orde"
+    }
+  },
+  {
+    "id": "AVT-102",
+    "name": "Arina",
+    "description": "A dedicated Waterbender known for her healing prowess and unwavering loyalty to the elders of her tribe.",
+    "age": 16,
+    "isActive": true,
+    "birthDate": "1908-06-21",
+    "imageUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/arina.jpg",
+    "element": "Water",
+    "abilities": ["Waterbending", "Healing", "Ice Shaping"],
+    "affiliation": {
+      "id": "NAT-001",
+      "name": "Water Stam",
+      "leader": "Hoofdman Akiak",
+      "capital": "Ijsfjord",
+      "motto": "Eenheid in stroming"
+    }
+  },
+  {
+    "id": "AVT-103",
+    "name": "Ryotan",
+    "description": "An Earthbender raised among traveling merchants, skilled at using the terrain to his advantage.",
+    "age": 22,
+    "isActive": false,
+    "birthDate": "1902-11-30",
+    "imageUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/ryotan.jpg",
+    "element": "Earth",
+    "abilities": ["Earthbending", "Terrain Shaping", "Stone Armor"],
+    "affiliation": {
+      "id": "NAT-003",
+      "name": "Aarde Koninkrijk",
+      "leader": "Aardkoning Yuan",
+      "capital": "Steenfort",
+      "motto": "Standvastig als steen"
+    }
+  },
+  {
+    "id": "AVT-104",
+    "name": "Xinia",
+    "description": "A prodigious Firebender with an affinity for lightning generation, harboring a secret desire to explore the world beyond the Fire Nation.",
+    "age": 17,
+    "isActive": true,
+    "birthDate": "1907-01-22",
+    "imageUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/xinia.jpg",
+    "element": "Fire",
+    "abilities": ["Firebending", "Lightning Generation", "Martial Arts"],
+    "affiliation": {
+      "id": "NAT-002",
+      "name": "Vuur Natie",
+      "leader": "Vuurheer Kazan",
+      "capital": "Vlamstad",
+      "motto": "Met kracht komt orde"
+    }
+  },
+  {
+    "id": "AVT-105",
+    "name": "Zaria",
+    "description": "A free-spirited Airbender who loves traveling between the Air Temples, bringing joyful chaos and laughter wherever she goes.",
+    "age": 15,
+    "isActive": true,
+    "birthDate": "1910-09-12",
+    "imageUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/zaria.jpg",
+    "element": "Air",
+    "abilities": ["Airbending", "Glider Acrobatics", "Enhanced Agility"],
+    "affiliation": {
+      "id": "NAT-004",
+      "name": "Lucht Nomaden",
+      "leader": "Monnik Shobu",
+      "capital": "Hoogtempel",
+      "motto": "Vrijheid in Harmonie"
+    }
+  },
+  {
+    "id": "AVT-106",
+    "name": "Gharin",
+    "description": "A stoïcijnse Earthbender die het liefst ondergronds traint om zijn unieke 'Tremor Sense' te perfectioneren.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "1899-04-18",
+    "imageUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/gharin.jpg",
+    "element": "Earth",
+    "abilities": ["Earthbending", "Tremor Sense", "Metal Resistance"],
+    "affiliation": {
+      "id": "NAT-003",
+      "name": "Aarde Koninkrijk",
+      "leader": "Aardkoning Yuan",
+      "capital": "Steenfort",
+      "motto": "Standvastig als steen"
+    }
+  },
+  {
+    "id": "AVT-107",
+    "name": "Niyara",
+    "description": "Een Waterbender gespecialiseerd in mist- en damptechnieken die zich vaak in de moerassen terugtrekt om zich te verbeteren.",
+    "age": 20,
+    "isActive": false,
+    "birthDate": "1903-07-07",
+    "imageUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/niyara.jpg",
+    "element": "Water",
+    "abilities": ["Waterbending", "Fog Concealment", "Healing Waves"],
+    "affiliation": {
+      "id": "NAT-001",
+      "name": "Water Stam",
+      "leader": "Hoofdman Akiak",
+      "capital": "Ijsfjord",
+      "motto": "Eenheid in stroming"
+    }
+  },
+  {
+    "id": "AVT-108",
+    "name": "Hessan",
+    "description": "Een beproefde Lucht Nomade die door meditatie en spirituele oefeningen een unieke connectie met de geestenwereld heeft ontwikkeld.",
+    "age": 32,
+    "isActive": true,
+    "birthDate": "1894-12-01",
+    "imageUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/hessan.jpg",
+    "element": "Air",
+    "abilities": ["Airbending", "Spiritual Projection", "Deep Meditation"],
+    "affiliation": {
+      "id": "NAT-004",
+      "name": "Lucht Nomaden",
+      "leader": "Monnik Shobu",
+      "capital": "Hoogtempel",
+      "motto": "Vrijheid in Harmonie"
+    }
+  },
+  {
+    "id": "AVT-109",
+    "name": "Marei",
+    "description": "Een jonge Waterbender die graag met muziek experimenteert om unieke ritmes en golven te creëren.",
+    "age": 14,
+    "isActive": true,
+    "birthDate": "1911-05-02",
+    "imageUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/marei.jpg",
+    "element": "Water",
+    "abilities": ["Waterbending", "Sound Waves", "Ice Instruments"],
+    "affiliation": {
+      "id": "NAT-001",
+      "name": "Water Stam",
+      "leader": "Hoofdman Akiak",
+      "capital": "Ijsfjord",
+      "motto": "Eenheid in stroming"
+    }
+  },
+  {
+    "id": "AVT-110",
+    "name": "Chen'lao",
+    "description": "Een innovatieve Firebender met een voorliefde voor mechanische uitvindingen en explosieve experimenten.",
+    "age": 25,
+    "isActive": true,
+    "birthDate": "1896-02-17",
+    "imageUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/chenlao.jpg",
+    "element": "Fire",
+    "abilities": ["Firebending", "Explosive Spark", "Mechanical Ingenuity"],
+    "affiliation": {
+      "id": "NAT-002",
+      "name": "Vuur Natie",
+      "leader": "Vuurheer Kazan",
+      "capital": "Vlamstad",
+      "motto": "Met kracht komt orde"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "NAT-001",
+    "name": "Water Stam",
+    "leader": "Hoofdman Akiak",
+    "capital": "Ijsfjord",
+    "motto": "Eenheid in stroming",
+    "symbolUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/water-symbol.jpg",
+    "foundedYear": 0
+  },
+  {
+    "id": "NAT-002",
+    "name": "Vuur Natie",
+    "leader": "Vuurheer Kazan",
+    "capital": "Vlamstad",
+    "motto": "Met kracht komt orde",
+    "symbolUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/fire-symbol.jpg",
+    "foundedYear": 0
+  },
+  {
+    "id": "NAT-003",
+    "name": "Aarde Koninkrijk",
+    "leader": "Aardkoning Yuan",
+    "capital": "Steenfort",
+    "motto": "Standvastig als steen",
+    "symbolUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/earth-symbol.jpg",
+    "foundedYear": 0
+  },
+  {
+    "id": "NAT-004",
+    "name": "Lucht Nomaden",
+    "leader": "Monnik Shobu",
+    "capital": "Hoogtempel",
+    "motto": "Vrijheid in Harmonie",
+    "symbolUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/images/air-symbol.jpg",
+    "foundedYear": 0
+  }
+]
