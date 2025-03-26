@@ -6,7 +6,7 @@
     "age": 19,
     "isActive": true,
     "birthDate": "1905-03-10",
-    "imageUrl": "https://raw.github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/characters/Kairo.webp",
+    "imageUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/characters/Kairo.webp",
     "element": "Fire",
     "abilities": ["Firebending", "Heat Control", "Agile Combat"],
     "affiliation": {
@@ -24,7 +24,7 @@
     "age": 16,
     "isActive": true,
     "birthDate": "1908-06-21",
-    "imageUrl": "https://raw.github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/characters/Arina.webp",
+    "imageUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/characters/Arina.webp",
     "element": "Water",
     "abilities": ["Waterbending", "Healing", "Ice Shaping"],
     "affiliation": {
@@ -42,7 +42,7 @@
     "age": 22,
     "isActive": false,
     "birthDate": "1902-11-30",
-    "imageUrl": "https://raw.github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/characters/Ryotan.webp",
+    "imageUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/characters/Ryotan.webp",
     "element": "Earth",
     "abilities": ["Earthbending", "Terrain Shaping", "Stone Armor"],
     "affiliation": {
@@ -60,7 +60,7 @@
     "age": 17,
     "isActive": true,
     "birthDate": "1907-01-22",
-    "imageUrl": "https://raw.github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/characters/Xinia.webp",
+    "imageUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/characters/Xinia.webp",
     "element": "Fire",
     "abilities": ["Firebending", "Lightning Generation", "Martial Arts"],
     "affiliation": {
@@ -78,7 +78,7 @@
     "age": 15,
     "isActive": true,
     "birthDate": "1910-09-12",
-    "imageUrl": "https://raw.github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/characters/Zaria.webp",
+    "imageUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/characters/Zaria.webp",
     "element": "Air",
     "abilities": ["Airbending", "Glider Acrobatics", "Enhanced Agility"],
     "affiliation": {
@@ -96,7 +96,7 @@
     "age": 28,
     "isActive": true,
     "birthDate": "1899-04-18",
-    "imageUrl": "https://raw.github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/characters/Gharin.webp",
+    "imageUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/characters/Gharin.webp",
     "element": "Earth",
     "abilities": ["Earthbending", "Tremor Sense", "Metal Resistance"],
     "affiliation": {
@@ -114,7 +114,7 @@
     "age": 20,
     "isActive": false,
     "birthDate": "1903-07-07",
-    "imageUrl": "https://raw.github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/characters/Niyara.webp",
+    "imageUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/characters/Niyara.webp",
     "element": "Water",
     "abilities": ["Waterbending", "Fog Concealment", "Healing Waves"],
     "affiliation": {
@@ -132,7 +132,7 @@
     "age": 32,
     "isActive": true,
     "birthDate": "1894-12-01",
-    "imageUrl": "https://raw.github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/characters/Hessan.webp",
+    "imageUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/characters/Hessan.webp",
     "element": "Air",
     "abilities": ["Airbending", "Spiritual Projection", "Deep Meditation"],
     "affiliation": {
@@ -150,7 +150,7 @@
     "age": 14,
     "isActive": true,
     "birthDate": "1911-05-02",
-    "imageUrl": "https://raw.github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/characters/Marei.webp",
+    "imageUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/characters/Marei.webp",
     "element": "Water",
     "abilities": ["Waterbending", "Sound Waves", "Ice Instruments"],
     "affiliation": {
@@ -168,7 +168,7 @@
     "age": 25,
     "isActive": true,
     "birthDate": "1896-02-17",
-    "imageUrl": "https://raw.github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/characters/Chenlao.webp",
+    "imageUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/characters/Chenlao.webp",
     "element": "Fire",
     "abilities": ["Firebending", "Explosive Spark", "Mechanical Ingenuity"],
     "affiliation": {
