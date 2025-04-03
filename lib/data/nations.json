@@ -5,7 +5,7 @@
     "leader": "Hoofdman Akiak",
     "capital": "Ijsfjord",
     "motto": "Eenheid in stroming",
-    "symbolUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/refs/heads/main/public/images/nations/Water-nation.webp",
+    "symbolUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/nations/Water-nation.webp",
     "foundedYear": 0
   },
   {
@@ -14,7 +14,7 @@
     "leader": "Vuurheer Kazan",
     "capital": "Vlamstad",
     "motto": "Met kracht komt orde",
-    "symbolUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/nations/Fire-nation.webp",
+    "symbolUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/nations/Fire-nation.webp",
     "foundedYear": 0
   },
   {
@@ -23,7 +23,7 @@
     "leader": "Aardkoning Yuan",
     "capital": "Steenfort",
     "motto": "Standvastig als steen",
-    "symbolUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/nations/Earth-nation.webp",
+    "symbolUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/nations/Earth-nation.webp",
     "foundedYear": 0
   },
   {
@@ -32,7 +32,7 @@
     "leader": "Monnik Shobu",
     "capital": "Hoogtempel",
     "motto": "Vrijheid in Harmonie",
-    "symbolUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-c3kap/raw/refs/heads/main/public/images/nations/Air-nation.webp",
+    "symbolUrl": "https://raw.githubusercontent.com/c3kap/projectopdracht-data/refs/heads/main/public/images/nations/Air-nation.webp",
     "foundedYear": 0
   }
 ]
